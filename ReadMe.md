@@ -24,7 +24,7 @@ $ git add
 <br>
 $ git  commit -m "rakeshCommit"
 <br>
-$ git remote add origin https://github.com/rakesh1234-png/UserManagementSystem2.git
+$ git remote add origin https://github.com/rakesh1234-png/userManagementValidation.git
 <br>
 $ git push -u origin master
 
